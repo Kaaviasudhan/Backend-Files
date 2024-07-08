@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Smartphone X",
+        "price": "699.99",
+        "description": "A high-end smartphone with a stunning display.",
+        "rating": "4.5",
+        "images": [
+            {"image": "image1.jpg"},
+            {"image": "image2.jpg"}
+        ],
+        "category": "Electronics",
+        "seller": "TechStore",
+        "stock": "50",
+        "numOfReview": "120",
+        "createdAt": "2024-07-01T10:00:00Z"
+    },
+    {
+        "name": "Wireless Earbuds",
+        "price": "99.99",
+        "description": "Compact and high-quality wireless earbuds.",
+        "rating": "4.2",
+        "images": [
+            {"image": "earbuds1.jpg"},
+            {"image": "earbuds2.jpg"}
+        ],
+        "category": "Accessories",
+        "seller": "AudioHub",
+        "stock": "200",
+        "numOfReview": "85",
+        "createdAt": "2024-06-20T09:00:00Z"
+    },
+    {
+        "name": "Laptop Pro",
+        "price": "1299.99",
+        "description": "A powerful laptop for professionals.",
+        "rating": "4.8",
+        "images": [
+            {"image": "laptop1.jpg"},
+            {"image": "laptop2.jpg"}
+        ],
+        "category": "Computers",
+        "seller": "LaptopWorld",
+        "stock": "30",
+        "numOfReview": "230",
+        "createdAt": "2024-05-15T14:00:00Z"
+    },
+    {
+        "name": "Smartwatch Series 5",
+        "price": "299.99",
+        "description": "A smartwatch with various health tracking features.",
+        "rating": "4.3",
+        "images": [
+            {"image": "smartwatch1.jpg"},
+            {"image": "smartwatch2.jpg"}
+        ],
+        "category": "Wearables",
+        "seller": "GadgetGear",
+        "stock": "75",
+        "numOfReview": "150",
+        "createdAt": "2024-04-22T11:00:00Z"
+    },
+    {
+        "name": "Gaming Mouse",
+        "price": "49.99",
+        "description": "Ergonomic gaming mouse with customizable buttons.",
+        "rating": "4.6",
+        "images": [
+            {"image": "mouse1.jpg"},
+            {"image": "mouse2.jpg"}
+        ],
+        "category": "Accessories",
+        "seller": "GameZone",
+        "stock": "120",
+        "numOfReview": "95",
+        "createdAt": "2024-03-30T15:00:00Z"
+    },
+    {
+        "name": "4K Ultra HD TV",
+        "price": "899.99",
+        "description": "A 65-inch 4K Ultra HD television with vibrant colors.",
+        "rating": "4.7",
+        "images": [
+            {"image": "tv1.jpg"},
+            {"image": "tv2.jpg"}
+        ],
+        "category": "Electronics",
+        "seller": "HomeTech",
+        "stock": "40",
+        "numOfReview": "200",
+        "createdAt": "2024-02-18T10:00:00Z"
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "price": "59.99",
+        "description": "Portable Bluetooth speaker with excellent sound quality.",
+        "rating": "4.4",
+        "images": [
+            {"image": "speaker1.jpg"},
+            {"image": "speaker2.jpg"}
+        ],
+        "category": "Audio",
+        "seller": "SoundWave",
+        "stock": "150",
+        "numOfReview": "110",
+        "createdAt": "2024-01-10T13:00:00Z"
+    },
+    {
+        "name": "Electric Toothbrush",
+        "price": "79.99",
+        "description": "Electric toothbrush with multiple brushing modes.",
+        "rating": "4.5",
+        "images": [
+            {"image": "toothbrush1.jpg"},
+            {"image": "toothbrush2.jpg"}
+        ],
+        "category": "Health",
+        "seller": "OralCare",
+        "stock": "90",
+        "numOfReview": "60",
+        "createdAt": "2023-12-25T09:00:00Z"
+    },
+    {
+        "name": "Fitness Tracker",
+        "price": "49.99",
+        "description": "Fitness tracker with heart rate monitoring and GPS.",
+        "rating": "4.1",
+        "images": [
+            {"image": "fitnesstracker1.jpg"},
+            {"image": "fitnesstracker2.jpg"}
+        ],
+        "category": "Wearables",
+        "seller": "FitLife",
+        "stock": "110",
+        "numOfReview": "70",
+        "createdAt": "2023-11-10T08:00:00Z"
+    },
+    {
+        "name": "Robot Vacuum Cleaner",
+        "price": "399.99",
+        "description": "Smart robot vacuum cleaner with app control.",
+        "rating": "4.7",
+        "images": [
+            {"image": "vacuum1.jpg"},
+            {"image": "vacuum2.jpg"}
+        ],
+        "category": "Home Appliances",
+        "seller": "CleanHome",
+        "stock": "60",
+        "numOfReview": "140",
+        "createdAt": "2023-10-05T12:00:00Z"
+    }
+]
